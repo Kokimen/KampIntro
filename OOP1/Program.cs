@@ -20,7 +20,7 @@ namespace OOP1
             //PascalCase   //camelCase    //case sensitive, büyük küçük harf duyarlılık
             ProductManager productManager = new ProductManager(); //instance creation, örnek oluşturma
             productManager.Add(product1);  //ne ekleyeceğim, parametre ver! class kısmında belirt
-                                           //product1 burada değerini bellek adresinden alır yani referans numarası vardır, adresteki değer değişir
+            productManager.Update(product1);                              //product1 burada değerini bellek adresinden alır yani referans numarası vardır, adresteki değer değişir
 
             
             //int, double, bool bunlar değer tip - değeri verir işi biter

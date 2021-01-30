@@ -18,19 +18,6 @@ namespace OOP1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
         //void anahtar kelimesi ne işe yarar? void olarak belirtilen metotlar emir kipinde git şunu yap demektir
         public int Topla(int sayi1, int sayi2) //topluyor işlemini yapıyor, bu işlem sonucunda toplam kullanılabilir, değer program akışında bana lazım
         {
